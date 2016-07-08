@@ -4,7 +4,9 @@ This is my version of the tutorial, [Trello tribute with Phoenix and React](http
 
 ## Modifications
 
-I did not use the no-brunch option. Instead, I used the installation as laid out in another tutorial, [ReactPx](https://github.com/davelively14/reactpx).  Here's the quick rundown:
+I did not use the no-brunch option. Instead, I used the installation as laid out in another tutorial, [ReactPx](https://github.com/davelively14/reactpx).  I did add the other front end packages from npm listed under 'Front-end Basic Structure' on part 2 of the tutorial.
+
+Below you will find the instructions for the installation of React with brunch. 
 
 ### React install instructions
 
